@@ -32,10 +32,10 @@ int main() {
     scanf("%d", &key);
 
 
-    int result = binarySearch(arr, n, key);
+    int res = binarySearch(arr, n, key);
 
-    if (result != -1)
-        printf("Element %d found at index %d\n", key, result);
+    if (res != -1)
+        printf("Element %d found at index %d\n", key, res);
     else
         printf("Element %d not found in the array\n", key);
 
