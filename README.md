@@ -3,23 +3,42 @@ A growing collection of Data Structures and Algorithms implemented in C for buil
 
 
 This repository demonstrates data structures like:
--binary tree
+
+
 -binary search tree
+
 -AVL tree
+
 -linked list
+  
   -singly linked list
+  
   -doubly linked list
+  
   -circular linked list
+
 -stack using arrays
+
 -queue using arrays
+  
   -linear queue
+  
   -circular queue
+
 -sorting techniques like
+  
   -merge sort
+  
   -selection sort
+  
   -quick sort
+  
   -bubble sort
+
 -searching texhniques like
+  
   -binary search
+
   -linear search
+
 -infix to postfix expression 
